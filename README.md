@@ -26,11 +26,6 @@
 
 ---
 
-## 🚀 Projects
-
-| **Project**                                    | **Description**                            | **Technologies**               |
-|------------------------------------------------|--------------------------------------------|---------------------------------|
-| [Realtime chat app](https://github.com/Eswar2484/Project) | A real-time chat application.              | PHP, MySQL                     |
 
 ---
 
@@ -41,7 +36,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eswar2484&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://www.instagram.com/ajaynandhakumar_07?igsh=cHcxaXRvYTFmenEx username=ajaynandhakumar_07 &show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswar2484&theme=radical" alt="GitHub Streak" width="49%"/>
 </p>
 
