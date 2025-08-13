@@ -60,10 +60,10 @@
   <a href="https://www.youtube.com/your-youtube" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://wa.me/+919894274820" target="_blank">
+  <a href="https://wa.me/+916369372464" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="tel:+919894274820" target="_blank">
+  <a href="tel:+916369372464" target="_blank">
     <img src="https://img.shields.io/badge/Phone-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Phone"/>
   </a>
 </p>
