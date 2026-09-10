@@ -1,76 +1,62 @@
-# 👋 Hi, I'm Ajaynandhakumar S!
-
-![Header](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
-## 🌟 About Me
-🎓 **I Complete the B.Sc. Computer Science Degree**  
-💻 Passionate about web development, coding, and creating impactful solutions.  
-
----
-
-## 💻 Skills
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### **Web Development**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Database Management**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-
----
-
-### 👨‍💻 Fun with Code
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://www.instagram.com/ajaynandhakumar_07?igsh=cHcxaXRvYTFmenEx username=ajaynandhakumar_07 &show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswar2484&theme=radical" alt="GitHub Streak" width="49%"/>
-</p>
+<h1 align="center">Hi 👋, I'm AJAYNANDHAKUMAR S</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswar2484&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=M.Sc+Computer+Science+Student;Python+Developer;Web+Developer;Cyber+Security+Enthusiast;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+## 💼 About Me
+- 🎓 M.Sc Computer Science Student  
+- 💻 Passionate about Software Development & AI/ML  
+- 🔐 Cyber Security & Software Testing Enthusiast  
+- 🚀 Love building real-world projects  
+- ⚡ Fast learner & team player  
 
+---
+
+## ⚒️ Tech Stack
 <p align="center">
-  <a href="https://www.instagram.com/https://www.instagram.com/eswar_2484?igsh=MW45anc3bnpuMnFzNQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/your-youtube" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://wa.me/+916369372464" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="tel:+916369372464" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Phone"/>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🎨 Featured Quote
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-> **— Martin Fowler**
-
----
-
+## ✨ Quote
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Keep Coding!" width="50%"/>
+  <b>"Code, Learn, Build, Repeat 🚀"</b>
 </p>
