@@ -81,11 +81,8 @@
 ## 📚 Currently Learning
 
 <p align="center">
-
-  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_6a0e89b232407444fae3bde8_1789894614711_completion_certificate.pdf?raw=1">
-
   <img src="https://img.shields.io/badge/Web%20Development-Learning-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyber%20Security-Exploring-111827?style=flat-square"/>
+  <img src="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_6a0e89b232407444fae3bde8_1789894614711_completion_certificate.pdf?raw=1"/>
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-412991?style=flat-square"/>
   <img src="https://img.shields.io/badge/Software%20Testing-Learning-25A162?style=flat-square"/>
 </p>
