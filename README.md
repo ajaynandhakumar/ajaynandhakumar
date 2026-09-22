@@ -82,7 +82,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Development-Learning-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyber%20Security-Exploring-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber%20Security-Exploring-E34F26?style=flat-square&logo=cube security5&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-412991?style=flat-square"/>
   <img src="https://img.shields.io/badge/Software%20Testing-Learning-25A162?style=flat-square"/>
 </p>
